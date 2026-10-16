@@ -1,0 +1,12 @@
+{
+  "name": "avaliacao-03-testes-de-software",
+  "version": "1.0.0",
+  "description": "Avaliação 03 - Testes de Software (Cypress) - João Roberto Oliveira dos Santos",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
